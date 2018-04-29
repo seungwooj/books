@@ -19,7 +19,7 @@ try:
 except:
     print(e)
 
-## More complex but safe way to code2 : use functions
+## More complex but safe way to code2 : use functions (getTitle, getHTML등의 범용함수 저장해서 사용하기
 
 from urllib.request import urlopen
 from urllib.request import HTTPError
