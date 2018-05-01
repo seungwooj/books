@@ -41,6 +41,7 @@ finally:
 
 
 ## 데이터를 mySQL로 저장 : MySQLdb 활용
+### https://mysqlclient.readthedocs.io/user_guide.html#connection-objects
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
