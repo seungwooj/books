@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60310724-900a-45ee-9437-87ac534cc797" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chp5_데이터저장.py" afterPath="$PROJECT_DIR$/chp5_데이터저장.py" />
-    </list>
+    <list default="true" id="60310724-900a-45ee-9437-87ac534cc797" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,37 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/MySQLdb/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chp3_크롤링시작하기.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chp3_크롤링시작하기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="62" column="85" lean-forward="true" selection-start-line="62" selection-start-column="85" selection-end-line="62" selection-end-column="85" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chp5_데이터저장.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chp5_데이터저장.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="43" column="73" lean-forward="false" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="editors.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="editors.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/editors.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -270,26 +238,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/editors.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/MySQLdb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chp3_크롤링시작하기_example_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-779">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chp5_데이터저장.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="43" column="72" lean-forward="false" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
           <folding />
         </state>
       </provider>
@@ -302,10 +262,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chp5_데이터저장.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/MySQLdb/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="43" column="73" lean-forward="false" selection-start-line="43" selection-start-column="73" selection-end-line="43" selection-end-column="73" />
+        <state relative-caret-position="187">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editors.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
