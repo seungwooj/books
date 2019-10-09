@@ -23,7 +23,7 @@ from bs4 import BeautifulSoup
 
 html = urlopen("http://en.wikipedia.org/wiki/Comparison_of_text_editors")
 bsObj = BeautifulSoup(html, "html.parser")
-
+dddsssss
 table = bsObj.find_all("table", {"class": "wikitable"})[0]
 rows = table.find_all("tr")
 csvFile = open("editors.csv", "wt")
